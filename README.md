@@ -21,7 +21,7 @@ This folder contains Jupyter notebooks to run and test the model.
 To use them, place the notebook in the directory of the Lavis library, where you can find eval.py and train.py.
 
 ### Link for model weight
-Artpedia Bert model: https://drive.google.com/file/d/1rKFUlHaRdK23_6cfoiVCNYk0nF1V1vVB/view?usp=sharing
-Aqua Bert model: https://drive.google.com/file/d/1L925rVdj0z8Pb52Gfpn-UvYjK-hPzMaD/view?usp=sharing
-Aqua Multimodal model: https://drive.google.com/file/d/1HF9jusAhyeIrnXx-xaNgbZAO_Ds1Sc_V/view?usp=sharing
-Artpedia Multimodal model: https://drive.google.com/drive/folders/1WMTZaoNba2D4f0XJ9sIVQbJ5f5vHa5ET?usp=sharing
+- Artpedia Bert model: https://drive.google.com/file/d/1rKFUlHaRdK23_6cfoiVCNYk0nF1V1vVB/view?usp=sharing
+- Aqua Bert model: https://drive.google.com/file/d/1L925rVdj0z8Pb52Gfpn-UvYjK-hPzMaD/view?usp=sharing
+- Aqua Multimodal model: https://drive.google.com/file/d/1HF9jusAhyeIrnXx-xaNgbZAO_Ds1Sc_V/view?usp=sharing
+- Artpedia Multimodal model: https://drive.google.com/drive/folders/1WMTZaoNba2D4f0XJ9sIVQbJ5f5vHa5ET?usp=sharing
