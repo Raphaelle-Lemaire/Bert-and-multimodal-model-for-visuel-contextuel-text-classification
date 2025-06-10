@@ -19,3 +19,6 @@ The following folders need to be add into the Lavis library following their docu
 ### Example Notebooks
 This folder contains Jupyter notebooks to run and test the model.
 To use them, place the notebook in the directory of the Lavis library, where you can find eval.py and train.py.
+
+### Link for model weight
+
